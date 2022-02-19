@@ -1,0 +1,367 @@
+
+*{
+	box-sizing: border-box;
+	margin:0;
+}
+.nav{
+position:sticky;
+top:0px;
+background-color: rgba(255, 255, 255, 90%);
+height: 84px;
+border-bottom: 1px solid #D6D6D6;
+padding: 30px;
+font-weight: 500;
+font-size: 20px;
+
+
+}
+.links{
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 72px;
+	font-family: Lato;
+	font-style: normal;
+	font-size: 20px;
+}
+.sign{
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 35px;
+	margin-left: 283px;
+	font-family: Lato;
+	font-style: normal;
+	font-size: 20px;
+}
+.container-nav{
+	width: 1500px;
+	margin: 0 auto;
+
+
+	
+}
+.logo{
+	margin-right: 171px;
+	display: inline-block;
+	vertical-align: top;
+}
+.main{
+	width: 100%;
+	height: 896px;
+	margin: 0 auto;
+	background: url('img/main.jpg') 0 0/cover no-repeat;
+}
+.main-container{
+	width: 1500px;
+	margin: 0 auto;
+}
+.text{ 
+padding: 175px 0px 45px;
+
+}
+.h2-1{ 
+	font-family: Georgia;
+	font-size: 65px;
+	font-weight: bold;
+	color: #01996D;
+	margin-bottom: 30px;
+	
+}
+.p1{
+	font-family: Lato;
+	font-size: 20px;
+	color: #484848;
+	margin-top: 30px;
+}
+.button1{
+	background-color: #01996D;
+	border: none;
+	border-radius: 4px;
+	color: white;
+	padding: 13px 50px;
+    text-align: center;
+	display: inline-block;
+	margin-left: 0;
+	position:relative; bottom: 15px; left:35px;
+	font-family: Lato;
+    font-size: 20px;
+	transition: 500ms
+}
+.button1:hover{
+	background-color: #04926a;
+	color:#ffffff;
+	transition: all 300ms ;
+	box-shadow: 5px 5px 10px #04926a9a;
+	transition-timing-function: ease-in;
+}
+.button2{
+	background-color: #01996D;
+	border: none;
+	border-radius: 4px;
+	color: white;
+	padding: 20px 50px;
+    text-align: center;
+    display: inline-block;
+	font-family: Lato;
+    font-size: 20px;
+}
+.button2:hover{
+	background-color: #04926a;
+	color:#ffffff;
+	transition: all 300ms ;
+	box-shadow: 5px 5px 10px #04926a9a;
+}
+.button3{
+	background-color: #01996D;
+	border: none;
+	border-radius: 4px;
+	color: white;
+	padding: 20px 50px;
+    text-align: center;
+    display: inline-block;
+	font-family: Lato;
+    font-size: 20px;
+}
+.button3:hover{
+	background-color: #04926a;
+	color:#ffffff;
+	transition: all 300ms ;
+	box-shadow: 5px 5px 10px #ffffff9a;
+}
+.second-page{
+	width: 100%;
+	height: 1606px;
+	margin: 0 auto;
+	background: #FFFFFF;
+}
+.block1{
+	margin-top: 181px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.block2{
+	margin-top: 181px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 290px;
+	padding-top: 20px;
+}
+.mini-tittle1{
+	font-family: Lato;
+	font-size: 24px;
+	color: #484848;
+	margin-top: -10px;
+}
+.title1{
+	font-family: Georgia;
+	font-size: 50px;
+	font-weight: bold;
+	color: #01996D;
+	padding-top: 5px;
+}
+.title2{
+	font-family: Lato;
+	font-size: 20px;
+	color: #484848;
+}
+.a0{
+	position: absolute;
+	font-family: Georgia;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 150px;
+	line-height: 150%;
+	text-align: center;
+	color: rgba(1, 153, 109, 0.2);
+	margin-top: -135px;
+	margin-left: -1px;
+}
+.block3{
+	margin-top: 200px;
+	display: inline-block;
+	vertical-align: top;
+	height: 899px;
+}
+.block4{
+	margin-top: 200px;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 100px;
+	margin-right: 100px;
+	height: 899px;
+
+}
+.block5{
+	margin-top: 200px;
+	display: inline-block;
+	vertical-align: top;
+	height: 899px;
+
+}
+.title3{
+	font-family: Georgia;
+	font-size: 30px;
+	font-weight: bold;
+	color: #000000;
+	text-align: center;
+}
+.text2{
+	font-family: Lato;
+	font-size: 20px;
+	color: #424242;
+	margin-top: 72px;
+	margin-bottom: 98px;
+}
+.text24{
+	font-family: Lato;
+	font-size: 20px;
+	color: #424242;
+	margin-top: 72px;
+	margin-bottom: 50px;
+}
+.third-page{
+	width: 100%;
+	height: 922px;
+	margin: 0 auto;
+	background: #245852;
+}
+.Kayla-story{
+	padding: 310px 0px 57px;
+}
+.h2-3{ 
+	font-family: Georgia;
+	font-size: 50px;
+	font-weight: bold;
+	color: #ffffff;
+	margin-bottom: 33px;
+}
+.p3{
+	font-family: Lato;
+	font-size: 25px;
+	color: #ffffff;
+	margin-top: 25px;
+}
+.she{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 230px;
+	margin-left: 31px;
+	vertical-align: top;
+}
+.Kayala{
+	display: inline-block;
+	vertical-align: top;
+}
+.play{
+	display: inline-block;
+	position: relative;
+	top: -298px; left: 1011px;
+}
+.fourth-page{
+	width: 100%;
+	height: 936px;
+	margin: 0 auto;
+	background: #ffffff;
+}
+.our-product{
+	font-family: Lato;
+	font-size: 25px;
+	color: #424242;
+}
+.diary{
+	font-family: Georgia;
+	font-size: 50px;
+	font-weight: bold;
+	color: #01996D;
+	margin-bottom: 30px;
+}
+.diary2{
+	font-family: Lato;
+	font-size: 20px;
+	color: #484848;
+}
+.Card{
+	width: 296px;
+	height: 294px;
+	display: inline-block;
+	position: absolute;
+	margin-top: 474px;
+	margin-left: 68px;
+	background-color: #ffffff;
+	box-shadow: 0px 0px 14px rgba(165, 165, 165, 0.25);
+	padding: 26px;
+	border-radius: 4px;
+}
+.Customized_For{
+	font-family: Lato;
+	font-size: 15px;
+	color: #000000;
+	text-align: center;
+	line-height: 157%;
+	font-weight: 600;
+}
+.Your_custom_contents{
+	position: absolute;
+	padding-bottom: 16px;
+	font-family: Georgia;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: #000000;
+	text-align: center;
+	padding-left: 11%;
+}
+.sp{
+	padding-top: 30px;
+	list-style-position: inside;
+	padding-bottom: 20px;
+	line-height: 2.5;
+	font-family: Lato;
+	font-size: 11px;
+	color: #000000;
+	padding-left: 35px;
+}
+.Image{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 13px;
+	margin-left: 94px;
+	margin-bottom: 11px;
+}
+.name{
+	font-family: Lato;
+	font-size: 12px;
+	color: #000000;
+	text-align: center;
+	padding-bottom: 20px;
+}
+.Mikayla{
+	display: inline-block;
+	left: 10px;
+	margin-top: 120px;
+	margin-left: 129px;
+}
+.about{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 120px;
+	margin-left: 87px;
+}
+.text4{
+	margin-bottom: 40px;
+}
+.footer-page{
+	width: 100%;
+	height: 654px;
+	margin: 0 auto;
+	background: #245852;
+}
+.logo2{
+	margin-top: 95px;
+
+}
+.links2{
+	font-family: Lato;
+	font-size: 25px;
+	color: #ffffff;
+	margin: 60px 0;
+}
